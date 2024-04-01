@@ -60,4 +60,4 @@ With all of this being known, let's get started!
 
 First, we'll import the dataset and start exploring. Since we know the evaluation metric we're trying to minimize, our first goal will be building a baseline model and seeing how it stacks up against the competition.
 
-### Check out [Predicting-the-Sale-Price-of-Bulldozers-using-supervised-Learning.ipynb](https://github.com/rkstu/Predicting-the-Sale-Price-of-Bulldozers-using-supervised-Learning/blob/main/Predicting-the-Sale-Price-of-Bulldozers-using-supervised-Learning.ipynb) file in this repository for code and detailed explanation
+### Check out [Predicting-the-Sale-Price-of-Bulldozers-using-supervised-Learning.ipynb](https://github.com/Mukulmalse/Predicting_the_Sale_Price_of_Bulldozers_Using_Machine_Learning/blob/main/Predicting-the-Sale-Price-of-Bulldozers-using-supervised-Learning.ipynb) file in this repository for code and detailed explanation
